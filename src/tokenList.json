@@ -1,0 +1,16 @@
+[
+  {
+    "ticker": "BTCBR",
+    "img": "https://bscscan.com/token/images/btcbr_32.png?=v81",
+    "name": "Bitcoin BR",
+    "address": "0x0cF8e180350253271f4b917CcFb0aCCc4862F262",
+    "decimals": 18
+  },
+  {
+    "ticker": "ETH",
+    "img": "https://app.chain-swap.org/ETH.svg",
+    "name": "Ethereum",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "decimals": 18
+  }
+]
